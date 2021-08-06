@@ -136,3 +136,11 @@ p {
   font-weight: 100;
   letter-spacing: 2px;
 }
+a {
+  cursor: pointer;
+  text-decoration: underline;
+  color: #2176ff;
+}
+a:hover {
+  text-decoration: none;
+}
