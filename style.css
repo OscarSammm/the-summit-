@@ -1,3 +1,9 @@
+.nav-link {
+  text-decoration: none;
+}
+.nav-link:hover {
+  color: #5495ff;
+}
 body {
   background-color: #ffffff;
   margin: 0px;
