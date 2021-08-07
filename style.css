@@ -129,6 +129,9 @@ p {
   text-align: center;
   text-transform: uppercase;
   margin: 5px;
+  border: 1px solid #2176ff;
+  cursor: pointer;
+  text-decoration: none;
 }
 .footer {
   background-color: #2176ff;
