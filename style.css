@@ -133,6 +133,15 @@ p {
   cursor: pointer;
   text-decoration: none;
 }
+.activity:hover {
+  background-color: #fff;
+  color: #5495ff;
+  transition: color 0.1s ease-in, background-color 0.1s ease-in;
+}
+.activity:active {
+  font-size: 40px;
+  transition: font-size 0.1s;
+}
 .footer {
   background-color: #2176ff;
   padding: 30px;
